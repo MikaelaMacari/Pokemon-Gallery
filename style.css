@@ -1,0 +1,23 @@
+body {
+  padding: 1em;
+  color: #2e1616;
+}
+
+h1 {
+  color: #0dcaf0;
+  margin-bottom: 1.5em;
+  text-align: center;
+}
+
+.margin {
+  margin-bottom: 1.5em;
+}
+
+.margin_top {
+  margin-top: 1.5em;
+}
+
+.margin_top a {
+  color: #000;
+  text-decoration: none;
+}
